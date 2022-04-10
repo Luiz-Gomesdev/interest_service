@@ -1,0 +1,5 @@
+package br.com.luiz.emprestimo.entitie;
+
+public class BrazilInterestService {
+
+}
